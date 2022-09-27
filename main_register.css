@@ -1,0 +1,31 @@
+span{
+    color: red;
+}
+.button{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;  
+    
+}
+legend{
+    text-align: center;
+}
+fieldset{
+    width: 25%;
+    text-align: center;
+    background-color: pink;
+}
+
+input{
+    display: inline-flex;
+    margin-top: 3%;
+    margin-bottom: 2%;
+    padding: 2%;
+    border: 0px;
+    
+}
+form{
+    display: flex;
+    justify-content: center;
+    margin-top: 6%;
+}
